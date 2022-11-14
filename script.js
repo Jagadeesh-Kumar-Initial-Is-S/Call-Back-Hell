@@ -25,7 +25,7 @@ setTimeout(()  => {
                                     setTimeout(()  => {
                                         div.innerHTML = 01;
                                         setTimeout(()  => {
-                                            div.innerHTML = "Happy Independense Day";
+                                            div.innerHTML = "Happy Independance Day";
                                         },1000)
                                     },1000)
                                 },1000)
